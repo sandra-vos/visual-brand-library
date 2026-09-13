@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://visual-brand-library.sandra-vos.com/</loc>
+  </url>
+  <url>
+    <loc>https://visual-brand-library.sandra-vos.com/pro-vital/</loc>
+  </url>
+  <url>
+    <loc>https://visual-brand-library.sandra-vos.com/pro-vital/references.html</loc>
+    <image:image>
+      <image:loc>https://visual-brand-library.sandra-vos.com/assets/pro-vital/references/screenshot%20homepage%20pro-vital.png</image:loc>
+      <image:title>Homepage</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://visual-brand-library.sandra-vos.com/assets/pro-vital/references/screenshot%20blog%20pagina%20pro-vital.png</image:loc>
+      <image:title>Blog overview</image:title>
+    </image:image>
+  </url>
+</urlset>
