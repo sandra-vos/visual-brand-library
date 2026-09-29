@@ -5,7 +5,7 @@ file: projects/pro-vital/config/image-generation/brands/pro-vital/visual-style.m
 document_type: Project Reference
 layer: Project
 
-version: 1.2.0
+version: 1.3.0
 status: Active
 
 owner: Pro-Vital
@@ -21,7 +21,7 @@ authority: High
 scope:
   - All
 
-last_updated: 2026-09-22
+last_updated: 2026-09-29
 ---
 
 # Pro-Vital Visual Style
@@ -76,7 +76,14 @@ Large areas of whitespace or calm background colour MAY be used to create separa
 
 Visual compositions MAY alternate between light and more strongly coloured sections when appropriate.
 
+
 ---
+
+# Social Composition and Navigation
+
+For designed Pro-Vital social compositions that combine a text section with photography, the photography SHOULD continue behind the leaf-inspired section divider so that no unintended white strip appears between the divider and the photograph. The divider remains subject to the Framework's Semantic Crop Integrity and Content Safe Zones requirements.
+
+Carousel numbering MUST use one consistent reserved navigation position throughout a series. Unless a specific format requires otherwise, Pro-Vital carousel numbers SHOULD appear in the bottom-right corner in a compact, readable treatment that does not compete with the Content.
 
 # Brand Expression in Photography
 
@@ -229,6 +236,8 @@ Product presentation SHOULD remain clean and recognisable.
 Packaging SHOULD remain sufficiently visible to preserve Product recognition.
 
 Approved Product renders SHOULD be preferred over reconstructed or generated packaging when available.
+
+When a Product-led composition would otherwise feel excessively empty, an approved Product render MAY be placed in a quiet, credible lifestyle environment. The surface, perspective, scale, contact shadow and lighting MUST make the Product feel physically integrated while keeping the packaging unaltered and clearly recognisable.
 
 AI-generated visuals MUST NOT alter the appearance, text, proportions or identifying characteristics of approved Product packaging.
 
