@@ -5,7 +5,7 @@ file: projects/pro-vital/config/image-generation/brands/pro-vital/visual-style.m
 document_type: Project Reference
 layer: Project
 
-version: 1.4.0
+version: 1.5.0
 status: Active
 
 owner: Pro-Vital
@@ -273,6 +273,8 @@ Illustrations SHOULD generally be:
 Illustrations MAY combine geometric and organic elements.
 
 For Pro-Vital icons, infographic illustrations and supporting vector-style artwork, the more specific rules in `illustration-style.md` MUST be applied. That Reference defines the approved illustration palette, shape language, gradient behaviour, depth, icon construction and rejection criteria.
+
+For infographics, `infographic-style.md` MUST also be applied. It defines information relationships, infographic patterns, semantic composition, hierarchy and infographic-specific QA before illustration styling is applied.
 
 Illustrations SHOULD support explanation or visual storytelling rather than add unnecessary decoration.
 
