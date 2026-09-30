@@ -1,0 +1,220 @@
+{
+  "schema_version": 2,
+  "brand": {
+    "id": "pro-vital",
+    "name": "Pro-Vital"
+  },
+  "source_of_truth": "GitHub ai-content-framework",
+  "source": {
+    "repository": "sandra-vos/ai-content-framework",
+    "revision": "b69d68f89bb9660ccda5383564997b9dc55939dd",
+    "inputs_match_revision": true,
+    "config": {
+      "source_path": "projects/pro-vital/config/image-generation/brands/pro-vital/brand.yaml",
+      "sha256": "2f55ad50eb8cdcf4b225e7fb3ab0fdf7413cee9839a1aa6b2304a71940b6f915",
+      "matches_revision": true,
+      "schema_version": "1.0.0"
+    },
+    "generator_files": [
+      {
+        "source_path": "brandbook/scripts/create-ai-reference-packs.mjs",
+        "sha256": "2aa13603f21c08c5ad6909016ce4e3d9bbbef4c4d02b15cc9ab4c0027dabd870",
+        "matches_revision": true
+      },
+      {
+        "source_path": "brandbook/scripts/reference-pack-data.mjs",
+        "sha256": "c0af84035fbe362ad7f5a191b971e7384ff11f0f2407fb2117c3a93513cb9153",
+        "matches_revision": true
+      }
+    ]
+  },
+  "purpose": "Public Visual Brand Library manifest",
+  "files": [
+    {
+      "type": "asset",
+      "collection": "logos",
+      "file": "assets/logos/pro-vital-logo-color.svg",
+      "source_path": "projects/pro-vital/references/visual/brands/pro-vital/logos/pro-vital-logo-color.svg",
+      "sha256": "7a937eed9a8b39e0dfe89f8bae8215e34cfa6503aadfc04eb3de5b7776ce4fa4",
+      "matches_revision": true,
+      "public_url": "https://visual-brand-library.sandra-vos.com/assets/pro-vital/logos/pro-vital-logo-color.svg"
+    },
+    {
+      "type": "asset",
+      "collection": "logos",
+      "file": "assets/logos/pro-vital-with-payoff-logo-color.svg",
+      "source_path": "projects/pro-vital/references/visual/brands/pro-vital/logos/pro-vital-with-payoff-logo-color.svg",
+      "sha256": "3713fd3fbaf2f4968d8cf3e1c42f188c5879dc892766c1dfcfa7b8197950ab91",
+      "matches_revision": true,
+      "public_url": "https://visual-brand-library.sandra-vos.com/assets/pro-vital/logos/pro-vital-with-payoff-logo-color.svg"
+    },
+    {
+      "type": "asset",
+      "collection": "icons",
+      "file": "assets/icons/app_icon.svg",
+      "source_path": "projects/pro-vital/references/visual/brands/pro-vital/icons/app_icon.svg",
+      "sha256": "b4c77ffbbc06d07470122360d85cad0ad9eb22b705fe1c982c628ce655058de6",
+      "matches_revision": true,
+      "public_url": "https://visual-brand-library.sandra-vos.com/assets/pro-vital/icons/app_icon.svg"
+    },
+    {
+      "type": "asset",
+      "collection": "illustrations",
+      "file": "assets/illustrations/illustration_style.png",
+      "source_path": "projects/pro-vital/references/visual/brands/pro-vital/illustrations/illustration_style.png",
+      "sha256": "18bbee59bf4620f331e7c7e9dba2ac0c8cc855f071d2874a4efa194a41efafdf",
+      "matches_revision": true,
+      "public_url": "https://visual-brand-library.sandra-vos.com/assets/pro-vital/illustrations/illustration_style.png"
+    },
+    {
+      "type": "asset",
+      "collection": "illustrations",
+      "file": "assets/illustrations/supplement.svg",
+      "source_path": "projects/pro-vital/references/visual/brands/pro-vital/illustrations/supplement.svg",
+      "sha256": "7b0df53771111b88adb79f2643185a742d0c53542c6633ac0f5c916823a1fb93",
+      "matches_revision": true,
+      "public_url": "https://visual-brand-library.sandra-vos.com/assets/pro-vital/illustrations/supplement.svg"
+    },
+    {
+      "type": "asset",
+      "collection": "photography",
+      "file": "assets/photography/PROVITAL_WEBBANNER_CURCUMIN-01.png",
+      "source_path": "projects/pro-vital/references/visual/brands/pro-vital/photography/PROVITAL_WEBBANNER_CURCUMIN-01.png",
+      "sha256": "c1f5509ab095fdd17207928f77fb6ec35597a7579e992517cd2ab50437d011dc",
+      "matches_revision": true,
+      "public_url": "https://visual-brand-library.sandra-vos.com/assets/pro-vital/photography/PROVITAL_WEBBANNER_CURCUMIN-01.png"
+    },
+    {
+      "type": "asset",
+      "collection": "photography",
+      "file": "assets/photography/PROVITAL_WEBBANNER_LACTORFERRIN-01.png",
+      "source_path": "projects/pro-vital/references/visual/brands/pro-vital/photography/PROVITAL_WEBBANNER_LACTORFERRIN-01.png",
+      "sha256": "fb496ee76e1b2d3ddd5c3d898aedc7441fb0291aa8a52e03ecbd86f25ecf8fdb",
+      "matches_revision": true,
+      "public_url": "https://visual-brand-library.sandra-vos.com/assets/pro-vital/photography/PROVITAL_WEBBANNER_LACTORFERRIN-01.png"
+    },
+    {
+      "type": "asset",
+      "collection": "photography",
+      "file": "assets/photography/PROVITAL_WEBBANNER_PROBIO-01.png",
+      "source_path": "projects/pro-vital/references/visual/brands/pro-vital/photography/PROVITAL_WEBBANNER_PROBIO-01.png",
+      "sha256": "cdb60eb9c81449eb910177a5c1533714b07b1e4d1f86113a1bf2f00e0bba37bb",
+      "matches_revision": true,
+      "public_url": "https://visual-brand-library.sandra-vos.com/assets/pro-vital/photography/PROVITAL_WEBBANNER_PROBIO-01.png"
+    },
+    {
+      "type": "asset",
+      "collection": "visual_audience_icons",
+      "file": "assets/visual_audience_icons/sport.webp",
+      "source_path": "projects/pro-vital/references/visual/brands/pro-vital/audiences/sport.webp",
+      "sha256": "51fe43fa582446478b48c81ed818b95942182975ad537d0213cfa37b3626b411",
+      "matches_revision": true,
+      "public_url": "https://visual-brand-library.sandra-vos.com/assets/pro-vital/visual_audience_icons/sport.webp"
+    },
+    {
+      "type": "asset",
+      "collection": "visual_audience_icons",
+      "file": "assets/visual_audience_icons/verloskunde.webp",
+      "source_path": "projects/pro-vital/references/visual/brands/pro-vital/audiences/verloskunde.webp",
+      "sha256": "cabed1b38cedf8bc69bba8a3c3527244f9fd4986ee5ae053b29e0b5686e396cb",
+      "matches_revision": true,
+      "public_url": "https://visual-brand-library.sandra-vos.com/assets/pro-vital/visual_audience_icons/verloskunde.webp"
+    },
+    {
+      "type": "asset",
+      "collection": "visual_audience_icons",
+      "file": "assets/visual_audience_icons/winkels.webp",
+      "source_path": "projects/pro-vital/references/visual/brands/pro-vital/audiences/winkels.webp",
+      "sha256": "cfe114a4058433773e1e4a3ac1d0d66411b428d9e18e93b695229f6c9c06dc47",
+      "matches_revision": true,
+      "public_url": "https://visual-brand-library.sandra-vos.com/assets/pro-vital/visual_audience_icons/winkels.webp"
+    },
+    {
+      "type": "asset",
+      "collection": "visual_audience_icons",
+      "file": "assets/visual_audience_icons/zorg.webp",
+      "source_path": "projects/pro-vital/references/visual/brands/pro-vital/audiences/zorg.webp",
+      "sha256": "7d4aa9611a14d24b7d8eeeea0fba273ec79cfdd752eddf5a1be3ea0380bbd8aa",
+      "matches_revision": true,
+      "public_url": "https://visual-brand-library.sandra-vos.com/assets/pro-vital/visual_audience_icons/zorg.webp"
+    },
+    {
+      "type": "context-visual",
+      "collection": "subjects",
+      "role": "subject-product-reference",
+      "file": "context/subjects/immune-pro/render-immune-pro.png",
+      "source_path": "projects/pro-vital/generated-context/visual-assets/subjects/immune-pro/render-immune-pro.png",
+      "sha256": "de563c4f24d1cc8eb683e9c6f1b8ee0382b4b5994fd5f835411dbe48a6df540c",
+      "matches_revision": true,
+      "public_url": "https://visual-brand-library.sandra-vos.com/assets/pro-vital/context/subjects/immune-pro/render-immune-pro.png"
+    },
+    {
+      "type": "visual-reference",
+      "id": "homepage",
+      "label": "Homepage",
+      "role": "primary-brand-reference",
+      "file": "references/screenshot homepage pro-vital.png",
+      "source_path": "projects/pro-vital/references/visual/brands/pro-vital/screenshots/screenshot homepage pro-vital.png",
+      "sha256": "85c750b0dbcf97b119addc55e3dcaacdac25f5aaae26d4851827407ac4925a00",
+      "matches_revision": true,
+      "public_url": "https://visual-brand-library.sandra-vos.com/assets/pro-vital/references/screenshot%20homepage%20pro-vital.png"
+    },
+    {
+      "type": "guidance",
+      "title": "Pro-Vital Brand Guidelines",
+      "source_path": "projects/pro-vital/config/image-generation/brands/pro-vital/brand-guidelines.md",
+      "file": "guidance/brand-guidelines.md",
+      "version": "1.0.1",
+      "sha256": "382d4e3042cd0a1a42768610d0e36b1f12d1a89ca3451ac28c1091fb4aba326f",
+      "matches_revision": true,
+      "public_url": "https://visual-brand-library.sandra-vos.com/assets/pro-vital/guidance/brand-guidelines.md"
+    },
+    {
+      "type": "guidance",
+      "title": "Pro-Vital Visual Style",
+      "source_path": "projects/pro-vital/config/image-generation/brands/pro-vital/visual-style.md",
+      "file": "guidance/visual-style.md",
+      "version": "1.5.0",
+      "sha256": "9ff003716bcee23daaf08cc2378a16a56abc908f761e281d98ba052f04d2ac44",
+      "matches_revision": true,
+      "public_url": "https://visual-brand-library.sandra-vos.com/assets/pro-vital/guidance/visual-style.md"
+    },
+    {
+      "type": "guidance",
+      "title": "Pro-Vital Illustration Style",
+      "source_path": "projects/pro-vital/config/image-generation/brands/pro-vital/illustration-style.md",
+      "file": "guidance/illustration-style.md",
+      "version": "1.0.0",
+      "sha256": "9a6844b7c3288e7c479510d733e664de562d7881f4b5ea93d14a7397036bcd8d",
+      "matches_revision": true,
+      "public_url": "https://visual-brand-library.sandra-vos.com/assets/pro-vital/guidance/illustration-style.md"
+    },
+    {
+      "type": "guidance",
+      "title": "Pro-Vital Infographic Style",
+      "source_path": "projects/pro-vital/config/image-generation/brands/pro-vital/infographic-style.md",
+      "file": "guidance/infographic-style.md",
+      "version": "1.1.0",
+      "sha256": "fabd6adfeeced86166b59fd844027a4fcef96ac629491f7da1f858b011ce5634",
+      "matches_revision": true,
+      "public_url": "https://visual-brand-library.sandra-vos.com/assets/pro-vital/guidance/infographic-style.md"
+    },
+    {
+      "type": "guidance",
+      "title": "Pro-Vital Visual Variants",
+      "source_path": "projects/pro-vital/config/image-generation/brands/pro-vital/visual-variants.md",
+      "file": "guidance/visual-variants.md",
+      "version": "1.0.1",
+      "sha256": "a339602aec553ff7b4d404403bca03244ac223eae536f44c17beeaad6d1ea349",
+      "matches_revision": true,
+      "public_url": "https://visual-brand-library.sandra-vos.com/assets/pro-vital/guidance/visual-variants.md"
+    }
+  ],
+  "public_library": {
+    "origin": "https://visual-brand-library.sandra-vos.com",
+    "brand_slug": "pro-vital",
+    "brand_url": "https://visual-brand-library.sandra-vos.com/pro-vital/",
+    "manifest_url": "https://visual-brand-library.sandra-vos.com/pro-vital/manifest.json",
+    "reference_pack_url": "https://visual-brand-library.sandra-vos.com/pro-vital/downloads/ai-reference-pack.zip"
+  }
+}
