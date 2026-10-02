@@ -4,7 +4,7 @@ file: projects/pro-vital/config/image-generation/brands/pro-vital/illustration-s
 
 document_type: Project Reference
 layer: Project
-version: 1.0.0
+version: 1.1.0
 status: Active
 owner: Pro-Vital
 project: Pro-Vital
@@ -20,7 +20,7 @@ scope:
   - Social
   - Blog
   - Product communication
-last_updated: 2026-09-29
+last_updated: 2026-10-02
 ---
 
 # Pro-Vital Illustration Style
@@ -29,7 +29,7 @@ last_updated: 2026-09-29
 
 This Reference defines the approved Pro-Vital illustration language for icons, infographic illustrations and supporting vector-style artwork.
 
-It extends `visual-style.md`. The approved capsule-based illustration family is the visual anchor. The source illustration `supplement.svg` is an authoritative visual reference for colour feeling, organic form language, layering and controlled depth.
+It extends `visual-style.md`. The approved illustration family is calibrated through `illustration_style.png` and the separate illustrated forms and building blocks in `supplement.svg`. These sources inform colour feeling, organic form language, layering and controlled depth; their complete arrangement does not prescribe the composition or density of a new visual.
 
 The style is intended to be recognisable as Pro-Vital without requiring a logo or literal leaf decoration in every illustration.
 
@@ -44,7 +44,18 @@ Illustrations SHOULD feel:
 - lightly dimensional rather than completely flat;
 - coherent through colour, shape and composition.
 
-Individual elements SHOULD remain simple. Visual richness SHOULD come from composition, overlap, scale variation and combinations of simple elements rather than internal detail.
+Individual elements SHOULD remain recognisable. Visual refinement MAY come from intentional shape construction, overlap, scale relationships, controlled highlights and depth. Refinement MUST NOT be equated with adding more objects or filling more of the canvas.
+
+## Reference Interpretation
+
+The approved sources in `projects/pro-vital/references/visual/brands/pro-vital/illustrations/` have distinct roles:
+
+- `illustration_style.png` is a style-calibration sheet for individual icons, selected combinations, palette, shape treatment and controlled depth. Its rows and background examples are not a checklist of elements to include together.
+- `supplement.svg` MUST be studied as a collection of separate illustrated forms, icons and building blocks, not as one complete composition to reproduce. Inspect the relevant individual silhouettes and their construction from clean shapes, fills, overlaps, highlights and controlled transparency. The object count, botanical abundance, surrounding symbols and overall density of the complete artwork are not defaults for a new illustration.
+
+Select only the construction principles and objects relevant to the current concept. A reference showing a leaf, flower, molecule, dot or glass does not make that object necessary in the output. For example, a labelling concept needs a recognisable label fragment; surrounding botanical or scientific motifs require their own communicative or restrained compositional purpose.
+
+The message determines the objects and their relationship. The references determine how the selected objects are drawn. Preserve this distinction in source analysis, item prompts and review.
 
 ## Illustration Palette
 
@@ -206,18 +217,16 @@ An icon that only works when enlarged is not a successful small icon.
 
 ## Larger Illustrations
 
-Larger illustrations MAY contain many elements, provided each individual element remains simple.
+Larger illustrations MAY contain more elements when the message or a deliberate composition requires them. A larger canvas does not itself justify a larger collection of objects.
 
-Complexity SHOULD be created through:
+Refinement MAY be created through:
 
-- repetition;
-- overlap;
-- grouping;
-- scale variation;
-- rhythm;
-- controlled combinations of botanical, geometric and scientific forms.
+- intentional overlap and grouping of relevant objects;
+- scale relationships and rhythm that support the hierarchy;
+- controlled vector planes, transparency or highlights within selected objects;
+- combinations of botanical, geometric or scientific forms when their relationship serves the concept.
 
-The capsule illustration in `references/visual/brands/pro-vital/illustrations/supplement.svg` demonstrates this principle: the composition is rich, while the individual building blocks remain relatively simple.
+A well-drawn label, glass or other primary object can carry a complete, attractive visual without a surrounding botanical collection. Use `supplement.svg` to understand the selected building blocks, not to inherit its full object count or decorative density.
 
 ## Background Elements
 
@@ -241,7 +250,7 @@ When generating or reviewing Pro-Vital illustrations, use this priority:
 3. `visual-style.md` for the broader visual language;
 4. `brand-guidelines.md` and `brand.yaml` for persistent Brand identity.
 
-The approved illustration family and `supplement.svg` SHOULD be used to calibrate visual feel. Do not redraw or reinterpret approved source assets when exact reuse is required.
+Use `illustration_style.png` and the relevant individual forms in `supplement.svg` according to Reference Interpretation above. Do not redraw or reinterpret approved source assets when exact reuse is required.
 
 ## QA / Rejection Criteria
 
@@ -254,10 +263,12 @@ Reject or revise an illustration when:
 - the result becomes glossy or photorealistic 3D;
 - forms become generic clip-art or childish;
 - botanical decoration is added without purpose;
+- a reference collection's object count or density is copied into an unrelated concept;
+- leaves, flowers, molecules, dots or repeated graphic accents compete with the main object, labels or relationship;
 - small icons lose recognisability;
 - too many colours or details compete within one icon;
 - unrelated illustration styles are mixed in one composition.
 
 ## Guiding Principle
 
-> Keep the building blocks simple and recognisable; create richness through composition, and create depth only through controlled vector-like techniques.
+> Draw the relevant objects with recognisable shapes and controlled refinement; let the message determine the composition and density.

@@ -7,7 +7,7 @@
   "source_of_truth": "GitHub ai-content-framework",
   "source": {
     "repository": "sandra-vos/ai-content-framework",
-    "revision": "b69d68f89bb9660ccda5383564997b9dc55939dd",
+    "revision": "ebf704abaa784c72e158c4210c62c4f90db42dbb",
     "inputs_match_revision": true,
     "config": {
       "source_path": "projects/pro-vital/config/image-generation/brands/pro-vital/brand.yaml",
@@ -184,8 +184,8 @@
       "title": "Pro-Vital Illustration Style",
       "source_path": "projects/pro-vital/config/image-generation/brands/pro-vital/illustration-style.md",
       "file": "guidance/illustration-style.md",
-      "version": "1.0.0",
-      "sha256": "9a6844b7c3288e7c479510d733e664de562d7881f4b5ea93d14a7397036bcd8d",
+      "version": "1.1.0",
+      "sha256": "ec604aad3f64df185fcc771a032ece03d77bc63b71f9fd138818e6ab07d4c6a6",
       "matches_revision": true,
       "public_url": "https://visual-brand-library.sandra-vos.com/assets/pro-vital/guidance/illustration-style.md"
     },
@@ -194,8 +194,8 @@
       "title": "Pro-Vital Infographic Style",
       "source_path": "projects/pro-vital/config/image-generation/brands/pro-vital/infographic-style.md",
       "file": "guidance/infographic-style.md",
-      "version": "1.1.0",
-      "sha256": "fabd6adfeeced86166b59fd844027a4fcef96ac629491f7da1f858b011ce5634",
+      "version": "1.2.0",
+      "sha256": "cb1eedf7535f03f3c653f42c3dcfef6eac6fe2a0107e386814f71a4bb434f923",
       "matches_revision": true,
       "public_url": "https://visual-brand-library.sandra-vos.com/assets/pro-vital/guidance/infographic-style.md"
     },

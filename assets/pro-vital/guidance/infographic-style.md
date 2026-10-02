@@ -4,7 +4,7 @@ file: projects/pro-vital/config/image-generation/brands/pro-vital/infographic-st
 
 document_type: Project Reference
 layer: Project
-version: 1.1.0
+version: 1.2.0
 status: Active
 owner: Pro-Vital
 project: Pro-Vital
@@ -19,7 +19,7 @@ scope:
   - Blog
   - Educational visuals
   - Product communication
-last_updated: 2026-09-29
+last_updated: 2026-10-02
 ---
 
 # Pro-Vital Infographic Style
@@ -81,7 +81,9 @@ Larger infographic compositions MAY create richness through:
 - controlled combinations of simple illustrated elements;
 - the approved Pro-Vital colour palette.
 
-Richness SHOULD come from composition rather than unnecessary internal detail.
+Apply the distinction between illustration finish and composition density in `framework/visual/infographic-standard.md`. These techniques refine the selected information-bearing objects; they are not an instruction to add more objects, botanical framing or scattered symbols.
+
+Resolve `illustration_style.png` and `supplement.svg` through the Reference Interpretation rules in `illustration-style.md`. Their available vocabulary MUST NOT replace the concept's objects: for example, a glass, flower or bowl MUST NOT stand in for a nutrient solely because it appears in the reference sheet.
 
 ## Brand-Specific Rejection Criteria
 
@@ -89,6 +91,7 @@ In addition to the Framework Infographic Standard, reject or revise a Pro-Vital 
 
 - Brand decoration reduces semantic clarity;
 - botanical elements are added without communicative or compositional purpose;
+- reference motifs replace the required information-bearing objects or accumulate around them without supporting the reading order;
 - scientific symbols imply unsupported meaning;
 - the illustration language conflicts with `illustration-style.md`;
 - the composition becomes excessively clinical, technical, childish or decorative;
