@@ -5,7 +5,7 @@ file: projects/pro-vital/config/image-generation/brands/pro-vital/brand-guidelin
 document_type: Project Reference
 layer: Project
 
-version: 1.0.1
+version: 1.1.0
 status: Active
 
 owner: Pro-Vital
@@ -21,7 +21,7 @@ authority: High
 scope:
   - All
 
-last_updated: 2026-09-24
+last_updated: 2026-10-02
 ---
 
 # Pro-Vital Brand Guidelines
@@ -116,7 +116,13 @@ The Secondary Green provides the darker Brand colour used within the Pro-Vital i
 
 The Primary and Secondary Brand colours MAY be used together.
 
-Visual Variants MAY extend the base Brand palette with additional colours.
+For the default Pro-Vital expression, the approved green/lime family MUST carry the primary Brand colour emphasis. Permitted supporting colours MUST NOT become equal or dominant colour families merely because they are available in a palette or reference.
+
+Chromatic colours outside the applicable approved primary/supporting palette MUST have a communicative reason when the meaning or necessary distinction cannot be made sufficiently clear with green tones, or belong to an applicable active Visual Variant. Aesthetic variety alone is insufficient. White and neutral colours remain available for contrast, readable text and visual breathing room.
+
+Colour hierarchy is determined by the combined visual emphasis of backgrounds, objects, typography and accents, not by a fixed pixel percentage. Medium-specific supporting colours and natural Subject appearance are resolved in the applicable Visual Style and Illustration Style References.
+
+Visual Variants MAY extend the base Brand palette with additional colours. The default hierarchy does not cancel the documented primary or supporting roles of an applicable Product Category or Audience Variant. Activate Variants only under `visual-variants.md`; their `extend` and `override` inheritance remains authoritative.
 
 When a Visual Variant uses `extend` inheritance:
 

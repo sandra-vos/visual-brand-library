@@ -4,7 +4,7 @@ file: projects/pro-vital/config/image-generation/brands/pro-vital/illustration-s
 
 document_type: Project Reference
 layer: Project
-version: 1.1.0
+version: 1.2.0
 status: Active
 owner: Pro-Vital
 project: Pro-Vital
@@ -61,22 +61,32 @@ The message determines the objects and their relationship. The references determ
 
 The illustration palette is intentionally narrower than the complete Pro-Vital brand and product-category palettes.
 
-Primary illustration colours:
+Approved illustration colours and their roles:
 
-| Role | Value |
-| --- | --- |
-| Dark green | `#2B904B` |
-| Green | `#67B433` |
-| Lime | `#9AC222` |
-| Yellow-lime | `#C9D300` |
-| Purple | `#957FB0` |
-| Light lilac | `#C6C2DB` |
-| Very light lilac | `#DEDBEB` |
-| White | `#FFFFFF` |
+| Colour | Value | Role |
+| --- | --- | --- |
+| Dark green | `#2B904B` | Primary illustration family |
+| Green | `#67B433` | Primary illustration family |
+| Lime | `#9AC222` | Primary illustration family |
+| Yellow-lime | `#C9D300` | Primary illustration family |
+| Purple | `#957FB0` | Secondary support |
+| Light lilac | `#C6C2DB` | Secondary support |
+| Very light lilac | `#DEDBEB` | Secondary support |
+| White | `#FFFFFF` | Neutral space and contrast |
 
-These colours define the illustration family; they do not replace the persistent Brand colours defined in `brand.yaml`.
+These colours define the illustration family; they do not replace the persistent Brand colours defined in `brand-guidelines.md` and represented in `brand.yaml`.
 
-Small icons SHOULD normally use only 2–3 functional colours. A larger composition MAY use more palette colours where needed for hierarchy and richness.
+### Colour Selection and Emphasis
+
+Start with the green/lime family as the primary colour treatment. Use its tonal differences and the resolved shapes, positions and labels to establish hierarchy and distinguish objects where that is sufficient.
+
+Purple and lilac MAY provide secondary accents or functional distinction. They MUST remain subordinate in the default Pro-Vital expression and MUST NOT become an automatic second main palette, a coequal comparison-panel colour or a dominant background merely because the references permit them. They are not required in every illustration.
+
+Other chromatic colours MAY be used only when green tones cannot make the intended meaning, recognisable Subject or necessary distinction sufficiently clear, or when an applicable active Product Category or Audience Variant supplies them. Resolve the purpose and scope of such use in the item brief. Variant colours follow `visual-variants.md`, including its documented primary/supporting roles and inheritance; an inactive Variant is not permission to borrow its colour.
+
+White and neutral tones remain available for space, contrast and legibility. The original colours of approved logos, packaging and Product Assets MUST remain intact. Review colour roles by their combined visual prominence across backgrounds, objects, labels and accents; no fixed colour-area ratio is prescribed.
+
+Small icons SHOULD normally use only 2–3 functional colours. A larger composition MAY use more palette colours when necessary for hierarchy or meaning, while preserving their primary and secondary roles.
 
 Do not invent intermediate greens, purples or other hues merely to create visual variety.
 
@@ -259,6 +269,9 @@ Reject or revise an illustration when:
 - a solid surface contains unexplained tonal variation;
 - a gradient has an aqua/watercolor appearance;
 - colours drift outside the approved illustration palette without a content-driven reason;
+- purple, lilac or another supporting colour becomes coequal with or dominant over green/lime in the default expression unless an applicable active Variant explicitly assigns that colour such a role;
+- additional colours are introduced for variety alone, or an inactive Variant colour is borrowed;
+- Brand colour treatment alters natural photographic Subject colours or the original identity of approved Visual Assets;
 - gradients contain multiple light-dark-light bands;
 - the result becomes glossy or photorealistic 3D;
 - forms become generic clip-art or childish;
