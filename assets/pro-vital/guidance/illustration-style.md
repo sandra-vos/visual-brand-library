@@ -4,7 +4,7 @@ file: projects/pro-vital/config/image-generation/brands/pro-vital/illustration-s
 
 document_type: Project Reference
 layer: Project
-version: 1.3.0
+version: 1.2.0
 status: Active
 owner: Pro-Vital
 project: Pro-Vital
@@ -20,7 +20,7 @@ scope:
   - Social
   - Blog
   - Product communication
-last_updated: 2026-10-03
+last_updated: 2026-10-02
 ---
 
 # Pro-Vital Illustration Style
@@ -32,14 +32,6 @@ This Reference defines the approved Pro-Vital illustration language for icons, i
 It extends `visual-style.md`. The approved illustration family is calibrated through `illustration_style.png` and the separate illustrated forms and building blocks in `supplement.svg`. These sources inform colour feeling, organic form language, layering and controlled depth; their complete arrangement does not prescribe the composition or density of a new visual.
 
 The style is intended to be recognisable as Pro-Vital without requiring a logo or literal leaf decoration in every illustration.
-
-## Scope Boundary: Illustrated Objects and Shared Design
-
-This Reference governs illustrated objects and icons. It does not define the appearance of every element in an infographic or mixed-media image. Its palette, gradients, highlights, transparency, vector planes, depth and shape construction MUST NOT be transferred to text merely because that text appears beside an illustration.
-
-Added headlines, labels, numbers, explanations and navigation inherit the Shared Typography and Graphic Layer in `visual-style.md`, including the same Poppins weights and solid text-colour roles used with photography. Keep letters crisp and flat; no illustration-derived gradients, watercolor effects, grain, shading, highlights, outlines or exaggerated boldness. Text panels and graphical devices are resolved by the shared composition rules rather than automatically rendered as illustrated objects.
-
-Interpret `illustration_style.png` and `supplement.svg` as references for drawing relevant objects, not as typography references. The scope boundary preserves their approved object refinement and controlled depth.
 
 ## Core Character
 
@@ -274,8 +266,6 @@ Use `illustration_style.png` and the relevant individual forms in `supplement.sv
 
 Reject or revise an illustration when:
 
-- illustration finish leaks into added text through gradients, watercolor, grain, shading, highlights or distorted letterforms;
-- typography or text-colour roles diverge from the shared Pro-Vital design layer solely because the image is illustrated;
 - a solid surface contains unexplained tonal variation;
 - a gradient has an aqua/watercolor appearance;
 - colours drift outside the approved illustration palette without a content-driven reason;
