@@ -4,7 +4,7 @@ file: projects/pro-vital/config/image-generation/brands/pro-vital/infographic-st
 
 document_type: Project Reference
 layer: Project
-version: 1.2.0
+version: 1.3.0
 status: Active
 owner: Pro-Vital
 project: Pro-Vital
@@ -19,7 +19,7 @@ scope:
   - Blog
   - Educational visuals
   - Product communication
-last_updated: 2026-10-02
+last_updated: 2026-10-03
 ---
 
 # Pro-Vital Infographic Style
@@ -34,7 +34,7 @@ This Reference MUST NOT duplicate or weaken those general rules.
 
 ## Relationship to Illustration Style
 
-After the Framework Infographic Standard has resolved the semantic structure, Pro-Vital infographic elements MUST follow `illustration-style.md`.
+After the Framework Infographic Standard has resolved the semantic structure, the illustrated objects and icons within a Pro-Vital infographic MUST follow `illustration-style.md`. This scope does not include the typography or automatically include text panels and editorial graphics.
 
 That includes the approved:
 
@@ -47,6 +47,14 @@ That includes the approved:
 
 Information clarity takes precedence over adding a familiar Brand motif.
 
+## Shared Design with Photography
+
+Infographic typography and editorial graphics MUST inherit the Shared Typography and Graphic Layer in `visual-style.md`. Main headlines use the same Poppins Bold/700 application as photographic compositions; group labels, emphasis and body copy follow the same resolved role weights. Do not add ExtraBold/Black weight or illustrative contours to compensate for the absence of photography.
+
+Use the same solid text-colour roles as photographic output. Letters MUST remain flat and untextured: no illustration gradients, watercolor/aqua effects, paper grain, shading or highlights inside text. The richer object finish remains on the illustrated objects. Align hierarchy, spacing, label padding and graphical behaviour with the shared system while allowing a content-specific information layout.
+
+Review representative infographics alongside photographic compositions as one Brand family. Passing the illustration reference alone is insufficient when typography or the editorial layer looks like a separate identity.
+
 ## Pro-Vital Expression
 
 Pro-Vital infographics SHOULD feel:
@@ -55,7 +63,7 @@ Pro-Vital infographics SHOULD feel:
 - fresh and contemporary;
 - organic without becoming decorative;
 - informative without becoming clinical;
-- visually coherent with other Pro-Vital illustrations.
+- visually coherent with both Pro-Vital photography and illustration through the shared design layer.
 
 The composition MAY combine organic and geometric forms where the semantic structure benefits from them.
 
@@ -89,6 +97,8 @@ Resolve `illustration_style.png` and `supplement.svg` through the Reference Inte
 
 In addition to the Framework Infographic Standard, reject or revise a Pro-Vital infographic when:
 
+- headline or label weights, text-colour roles or editorial graphics drift from the shared system used with photography without an explicit applicable override;
+- text contains gradients, watercolor, grain or other illustration-derived surface effects;
 - Brand decoration reduces semantic clarity;
 - botanical elements are added without communicative or compositional purpose;
 - reference motifs replace the required information-bearing objects or accumulate around them without supporting the reading order;

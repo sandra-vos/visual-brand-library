@@ -5,7 +5,7 @@ file: projects/pro-vital/config/image-generation/brands/pro-vital/visual-style.m
 document_type: Project Reference
 layer: Project
 
-version: 1.6.0
+version: 1.7.0
 status: Active
 
 owner: Pro-Vital
@@ -21,7 +21,7 @@ authority: High
 scope:
   - All
 
-last_updated: 2026-10-02
+last_updated: 2026-10-03
 ---
 
 # Pro-Vital Visual Style
@@ -92,6 +92,49 @@ Apply the Brand colour hierarchy in `brand-guidelines.md` across photographic, i
 In photography, apply Brand colour choices through appropriate styling, environmental accents and graphical treatment while preserving natural skin tones, food, materials and surroundings. Natural photographic colours are Subject appearance, not an additional graphical Brand palette; Brand alignment MUST NOT require tinting the whole scene green.
 
 White and neutral backgrounds MAY provide calm space and contrast. Applicable Product Category and Audience colours follow `visual-variants.md` and its activation and inheritance rules. The availability of a Variant colour alone does not activate that Variant.
+
+---
+
+# Shared Typography and Graphic Layer
+
+Photography, illustrations, infographics and Product-led compositions MUST belong to the same Pro-Vital design system. Their imagery may differ, but equivalent text roles inherit the same typography, text-colour roles, spacing rhythm and graphical behaviour. A switch to an infographic MUST NOT introduce heavier letters, illustrative lettering or a different editorial palette.
+
+## Typography Roles
+
+Apply the Poppins family inherited from `brand-guidelines.md` with these default application weights:
+
+| Text role | Actual Poppins weight |
+| --- | --- |
+| Main headline or standalone key figure | Bold, 700 |
+| Section heading or short group label | SemiBold, 600 |
+| Supporting emphasis or navigation | Medium, 500 |
+| Explanation, body copy or qualification | Regular, 400 |
+
+Use the same role-to-weight mapping across media. Do not use ExtraBold/800, Black/900, synthetic bold, doubled text, strokes or outlines to make an infographic headline more emphatic. Establish hierarchy through the resolved type size, position and spacing. Each text run must use its planned real font weight under the Framework's editable typography requirements.
+
+Type size and line breaks may vary with the format and content. Compare visual weight at comparable displayed letter heights rather than interpreting a larger headline as permission for a heavier font. Approved photographic typography may calibrate the shared editorial character of an infographic without supplying its photographic content or composition.
+
+## Text Colours and Surface Treatment
+
+The shared default text palette is:
+
+| Colour | Value | Text role |
+| --- | --- | --- |
+| Pro-Vital Secondary Green | `#006934` | Default text on white, neutral or sufficiently light surfaces |
+| White | `#FFFFFF` | Inverse text on a sufficiently dark surface with verified contrast |
+| Pro-Vital Primary Green | `#8ABE23` | Optional emphasis only where the actual background meets the applicable contrast requirement |
+
+Use these same roles in photographic, illustrated and mixed-media compositions. If Primary Green is insufficiently legible, use Secondary Green or adjust the local surface rather than adding a gradient or a different illustration green. White on lime is not a default inverse treatment. Additional text colours require an explicitly applicable Brand or active Variant typography decision; an illustration palette or a natural photographic colour does not supply one.
+
+All added lettering MUST be crisp, flat and filled with one uniform solid colour per resolved text run. No gradients, watercolor/aqua effects, paper grain, mottling, brush edges, highlights, translucent patches, shadows, extrusion or illustrated depth may appear in the letters. Keep illustration gradients, vector planes and controlled highlights on their intended illustrated objects. Text integral to an approved logo or Product Asset remains unchanged and is excluded from this added-text treatment.
+
+## Graphic Continuity and Review
+
+Use a related hierarchy, alignment logic, whitespace rhythm, label padding and restrained organic line/shape behaviour across media where these devices serve the composition. Illustration-specific silhouettes and depth govern the illustrated objects, not the font contours or the whole editorial layer. A text surface is resolved separately against its actual background; it must not automatically inherit an illustrated object's material or finish.
+
+Review photographic and infographic examples together at the intended display size. Equivalent text roles must agree in font family, weight, palette and flat surface treatment; inspect letters closely for gradient or texture leakage. Preserve the existing Subject protection, padding, contrast and mobile-legibility checks. Correct local typography or graphical drift while preserving the successful imagery, illustration refinement, layering and content-specific composition. Shared design does not require one template or decorative overlays on complete standalone photography.
+
+An explicitly approved active Variant may override only the typography properties it names; all other shared properties remain inherited.
 
 ---
 
