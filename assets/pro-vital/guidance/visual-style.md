@@ -5,7 +5,7 @@ file: projects/pro-vital/config/image-generation/brands/pro-vital/visual-style.m
 document_type: Project Reference
 layer: Project
 
-version: 1.6.0
+version: 1.6.2
 status: Active
 
 owner: Pro-Vital
@@ -21,7 +21,7 @@ authority: High
 scope:
   - All
 
-last_updated: 2026-10-02
+last_updated: 2026-10-03
 ---
 
 # Pro-Vital Visual Style
@@ -83,6 +83,8 @@ Visual compositions MAY alternate between light and more strongly coloured secti
 
 For designed Pro-Vital social compositions that combine a text section with photography, the photography SHOULD continue behind the leaf-inspired section divider so that no unintended white strip appears between the divider and the photograph. The divider remains subject to the Framework's Semantic Crop Integrity and Content Safe Zones requirements.
 
+When a Pro-Vital leaf-inspired swirl is used, its successive colour bands MUST form one continuous bundle. Adjacent colours MUST meet directly along shared boundaries, with no white, transparent or background-visible gaps between the bands. Preserve this contact through curves, changes in band width and tapered ends; the swirl MUST NOT read as separated floating strips. This rule applies where a swirl is already part of the resolved design and does not require adding one to every image. Inspect the final export for unintended spaces between its colour bands.
+
 Carousel numbering MUST use one consistent reserved navigation position throughout a series. Unless a specific format requires otherwise, Pro-Vital carousel numbers SHOULD appear in the bottom-right corner in a compact, readable treatment that does not compete with the Content.
 
 # Colour Hierarchy Across Media
@@ -92,6 +94,27 @@ Apply the Brand colour hierarchy in `brand-guidelines.md` across photographic, i
 In photography, apply Brand colour choices through appropriate styling, environmental accents and graphical treatment while preserving natural skin tones, food, materials and surroundings. Natural photographic colours are Subject appearance, not an additional graphical Brand palette; Brand alignment MUST NOT require tinting the whole scene green.
 
 White and neutral backgrounds MAY provide calm space and contrast. Applicable Product Category and Audience colours follow `visual-variants.md` and its activation and inheritance rules. The availability of a Variant colour alone does not activate that Variant.
+
+---
+
+# Typography Across Photography and Illustration
+
+Added words, sentences, labels and numbers in photographic, illustrated and infographic output MUST use the same Poppins weight for the same text role. The approved photographic typography is the reference for these weights and text colours. Apply these defaults unless an applicable approved Brand or active Variant override specifies otherwise:
+
+| Text role | Actual Poppins weight |
+| --- | --- |
+| Main headline or standalone key figure | Bold, 700 |
+| Section heading or short group label | SemiBold, 600 |
+| Supporting emphasis or navigation | Medium, 500 |
+| Explanation, body copy or qualification | Regular, 400 |
+
+Font size and line breaks MAY adapt to the format, available space and information hierarchy; an illustrated medium alone is not a reason to change the resolved weight.
+
+Use the same text-colour roles as photographic output: Secondary Green `#006934` on sufficiently light surfaces, white `#FFFFFF` on sufficiently dark surfaces, and Primary Green `#8ABE23` for emphasis only when the actual background provides sufficient contrast. Additional text colours require an applicable approved Brand or active Variant typography decision. Do not select word or sentence colours from the illustration palette merely because the output is illustrated.
+
+Added letters MUST have crisp font-defined contours and one uniform solid fill per text run. Illustration gradients, watercolor, texture or shading MUST NOT appear inside the letters. Text embedded in approved logos or packaging retains its source appearance.
+
+This rule applies only to the letters themselves. Text panels and label backgrounds, other backgrounds, illustrations and compositions continue to follow their existing design rules, including permitted colour, gradients, transparency, layering and depth. Matching weights and text colours does not require copying a photographic layout or flattening any surface behind the text. Existing contrast, padding, Subject protection, editable-font verification and correction-fidelity requirements remain applicable.
 
 ---
 

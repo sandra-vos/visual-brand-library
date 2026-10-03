@@ -7,7 +7,7 @@
   "source_of_truth": "GitHub ai-content-framework",
   "source": {
     "repository": "sandra-vos/ai-content-framework",
-    "revision": "0324612f4e1e9c92a0d74ac7b8d7be9bc6d91372",
+    "revision": "a6ee8e34ed2377744253b0579da1766575d0e91c",
     "inputs_match_revision": true,
     "config": {
       "source_path": "projects/pro-vital/config/image-generation/brands/pro-vital/brand.yaml",
@@ -174,8 +174,8 @@
       "title": "Pro-Vital Visual Style",
       "source_path": "projects/pro-vital/config/image-generation/brands/pro-vital/visual-style.md",
       "file": "guidance/visual-style.md",
-      "version": "1.6.0",
-      "sha256": "6914816c9d923875d9177bd7385d2fc4e945a3834540115be34dc05b52d2ae82",
+      "version": "1.6.2",
+      "sha256": "38666e820dceb58289d8b0b6cec995982c45534a44c691c614d3019ee08e6464",
       "matches_revision": true,
       "public_url": "https://visual-brand-library.sandra-vos.com/assets/pro-vital/guidance/visual-style.md"
     },
@@ -184,8 +184,8 @@
       "title": "Pro-Vital Illustration Style",
       "source_path": "projects/pro-vital/config/image-generation/brands/pro-vital/illustration-style.md",
       "file": "guidance/illustration-style.md",
-      "version": "1.2.0",
-      "sha256": "9f2af89c2bd6cb403abfaae635ba618ba85981583c95b3ba7b9966dbbb5094c5",
+      "version": "1.2.1",
+      "sha256": "3822c6529294b10ea7f1665fe32be8e54946cb889f9a39091c30f019247af94a",
       "matches_revision": true,
       "public_url": "https://visual-brand-library.sandra-vos.com/assets/pro-vital/guidance/illustration-style.md"
     },
@@ -194,8 +194,8 @@
       "title": "Pro-Vital Infographic Style",
       "source_path": "projects/pro-vital/config/image-generation/brands/pro-vital/infographic-style.md",
       "file": "guidance/infographic-style.md",
-      "version": "1.2.0",
-      "sha256": "cb1eedf7535f03f3c653f42c3dcfef6eac6fe2a0107e386814f71a4bb434f923",
+      "version": "1.2.1",
+      "sha256": "c3f4c7e940c74c166e30563c40fb4e659793139a71b1d9bf23d34dc5528981f7",
       "matches_revision": true,
       "public_url": "https://visual-brand-library.sandra-vos.com/assets/pro-vital/guidance/infographic-style.md"
     },
