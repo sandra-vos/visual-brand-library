@@ -7,7 +7,7 @@
   "source_of_truth": "GitHub ai-content-framework",
   "source": {
     "repository": "sandra-vos/ai-content-framework",
-    "revision": "bd602866dbcf110fc6b7ab37b26f090c4d5e6209",
+    "revision": "e2ecfaaebfd0f9fd234b5a318e5b53203e226cbf",
     "inputs_match_revision": true,
     "config": {
       "source_path": "projects/pro-vital/config/image-generation/brands/pro-vital/brand.yaml",
@@ -56,15 +56,6 @@
       "sha256": "b4c77ffbbc06d07470122360d85cad0ad9eb22b705fe1c982c628ce655058de6",
       "matches_revision": true,
       "public_url": "https://visual-brand-library.sandra-vos.com/assets/pro-vital/icons/app_icon.svg"
-    },
-    {
-      "type": "asset",
-      "collection": "illustrations",
-      "file": "assets/illustrations/illustration_style.png",
-      "source_path": "projects/pro-vital/references/visual/brands/pro-vital/illustrations/illustration_style.png",
-      "sha256": "18bbee59bf4620f331e7c7e9dba2ac0c8cc855f071d2874a4efa194a41efafdf",
-      "matches_revision": true,
-      "public_url": "https://visual-brand-library.sandra-vos.com/assets/pro-vital/illustrations/illustration_style.png"
     },
     {
       "type": "asset",
