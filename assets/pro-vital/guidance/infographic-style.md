@@ -4,7 +4,7 @@ file: projects/pro-vital/config/image-generation/brands/pro-vital/infographic-st
 
 document_type: Project Reference
 layer: Project
-version: 1.2.1
+version: 1.2.0
 status: Active
 owner: Pro-Vital
 project: Pro-Vital
@@ -19,7 +19,7 @@ scope:
   - Blog
   - Educational visuals
   - Product communication
-last_updated: 2026-10-03
+last_updated: 2026-10-02
 ---
 
 # Pro-Vital Infographic Style
@@ -46,10 +46,6 @@ That includes the approved:
 - botanical and scientific vocabulary.
 
 Information clarity takes precedence over adding a familiar Brand motif.
-
-## Typography
-
-Added headlines, labels, numbers and explanations follow Typography Across Photography and Illustration in `visual-style.md`. Match photographic font weights by text role and use the same text-colour roles; font size and line breaks may adapt to the infographic. Check the rendered letters for solid fills and text-colour consistency under the existing text review. This typography rule does not change the design or finish of text panels, label backgrounds, backgrounds or illustrations.
 
 ## Pro-Vital Expression
 
