@@ -4,7 +4,7 @@ file: projects/pro-vital/config/image-generation/brands/pro-vital/illustration-s
 
 document_type: Project Reference
 layer: Project
-version: 1.2.0
+version: 1.2.2
 status: Active
 owner: Pro-Vital
 project: Pro-Vital
@@ -20,7 +20,7 @@ scope:
   - Social
   - Blog
   - Product communication
-last_updated: 2026-10-02
+last_updated: 2026-10-04
 ---
 
 # Pro-Vital Illustration Style
@@ -32,6 +32,8 @@ This Reference defines the approved Pro-Vital illustration language for icons, i
 It extends `visual-style.md`. The approved illustration family is calibrated through `illustration_style.png` and the separate illustrated forms and building blocks in `supplement.svg`. These sources inform colour feeling, organic form language, layering and controlled depth; their complete arrangement does not prescribe the composition or density of a new visual.
 
 The style is intended to be recognisable as Pro-Vital without requiring a logo or literal leaf decoration in every illustration.
+
+The illustration palette and illustrative colour or surface effects MUST NOT be applied to added lettering; added lettering follows the Brand typography rules in `brand-guidelines.md` and `visual-style.md`. This exception concerns the letters themselves, not the backgrounds or shapes behind them.
 
 ## Core Character
 

@@ -5,7 +5,7 @@ file: projects/pro-vital/config/image-generation/brands/pro-vital/visual-style.m
 document_type: Project Reference
 layer: Project
 
-version: 1.6.0
+version: 1.6.3
 status: Active
 
 owner: Pro-Vital
@@ -21,7 +21,7 @@ authority: High
 scope:
   - All
 
-last_updated: 2026-10-02
+last_updated: 2026-10-03
 ---
 
 # Pro-Vital Visual Style
@@ -83,6 +83,8 @@ Visual compositions MAY alternate between light and more strongly coloured secti
 
 For designed Pro-Vital social compositions that combine a text section with photography, the photography SHOULD continue behind the leaf-inspired section divider so that no unintended white strip appears between the divider and the photograph. The divider remains subject to the Framework's Semantic Crop Integrity and Content Safe Zones requirements.
 
+When a Pro-Vital swirl is used, successive colour bands MUST touch directly, with no white, transparent or background-visible gaps between the bands, including through curves and tapered ends.
+
 Carousel numbering MUST use one consistent reserved navigation position throughout a series. Unless a specific format requires otherwise, Pro-Vital carousel numbers SHOULD appear in the bottom-right corner in a compact, readable treatment that does not compete with the Content.
 
 # Colour Hierarchy Across Media
@@ -92,6 +94,12 @@ Apply the Brand colour hierarchy in `brand-guidelines.md` across photographic, i
 In photography, apply Brand colour choices through appropriate styling, environmental accents and graphical treatment while preserving natural skin tones, food, materials and surroundings. Natural photographic colours are Subject appearance, not an additional graphical Brand palette; Brand alignment MUST NOT require tinting the whole scene green.
 
 White and neutral backgrounds MAY provide calm space and contrast. Applicable Product Category and Audience colours follow `visual-variants.md` and its activation and inheritance rules. The availability of a Variant colour alone does not activate that Variant.
+
+---
+
+# Typography Weights
+
+Across photography, illustrations and infographics, Poppins font weights MUST be Bold (700) for main headlines and standalone key figures, SemiBold (600) for section headings and short group labels, Medium (500) for supporting emphasis and navigation, and Regular (400) for body copy and explanations.
 
 ---
 

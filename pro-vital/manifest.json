@@ -7,7 +7,7 @@
   "source_of_truth": "GitHub ai-content-framework",
   "source": {
     "repository": "sandra-vos/ai-content-framework",
-    "revision": "d474ca46f83cf51e6082094b7edcb391a0b9be87",
+    "revision": "ca3fb389e79c64022c0e8acc92ad0e6b15057d51",
     "inputs_match_revision": true,
     "config": {
       "source_path": "projects/pro-vital/config/image-generation/brands/pro-vital/brand.yaml",
@@ -174,8 +174,8 @@
       "title": "Pro-Vital Visual Style",
       "source_path": "projects/pro-vital/config/image-generation/brands/pro-vital/visual-style.md",
       "file": "guidance/visual-style.md",
-      "version": "1.6.0",
-      "sha256": "6914816c9d923875d9177bd7385d2fc4e945a3834540115be34dc05b52d2ae82",
+      "version": "1.6.3",
+      "sha256": "058d9f22dd14b31d5addd16172bb729ad35483c050a38b51896bfaddb1c9c2ec",
       "matches_revision": true,
       "public_url": "https://visual-brand-library.sandra-vos.com/assets/pro-vital/guidance/visual-style.md"
     },
@@ -184,8 +184,8 @@
       "title": "Pro-Vital Illustration Style",
       "source_path": "projects/pro-vital/config/image-generation/brands/pro-vital/illustration-style.md",
       "file": "guidance/illustration-style.md",
-      "version": "1.2.0",
-      "sha256": "9f2af89c2bd6cb403abfaae635ba618ba85981583c95b3ba7b9966dbbb5094c5",
+      "version": "1.2.2",
+      "sha256": "b120cf5c45827487e675a78e6d173f6b1a5cdd094f8334e20d67460295271bb1",
       "matches_revision": true,
       "public_url": "https://visual-brand-library.sandra-vos.com/assets/pro-vital/guidance/illustration-style.md"
     },
