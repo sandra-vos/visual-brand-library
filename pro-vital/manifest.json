@@ -7,7 +7,7 @@
   "source_of_truth": "GitHub ai-content-framework",
   "source": {
     "repository": "sandra-vos/ai-content-framework",
-    "revision": "e1bed0e7df23a0c16558768ff85f495652469596",
+    "revision": "471156dd266ff0cbe6dd1e2539b683a3cf079f0f",
     "inputs_match_revision": true,
     "config": {
       "source_path": "projects/pro-vital/config/image-generation/brands/pro-vital/brand.yaml",
